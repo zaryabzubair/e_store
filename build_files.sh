@@ -13,3 +13,5 @@ python3.9 manage.py collectstatic --noinput --clear
 echo "Migration"
 python3.9 manage.py makemigrations
 python3.9 manage.py migrate
+
+
